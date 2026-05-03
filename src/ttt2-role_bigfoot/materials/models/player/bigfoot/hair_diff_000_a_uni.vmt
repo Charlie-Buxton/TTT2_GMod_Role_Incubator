@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/gtav/bigfoot/hair_diff_000_a_uni"
+	"$bumpmap" "models/gtav/bigfoot/hair_normal_000"
+	"$alphatest" 1
+                "$allowalphatocoverage" 1
+    $phong 1
+    $phongexponent 150
+    $phongexponenttexture "models/gtav/bigfoot/hair_spec_000"
+    $phongboost    1
+    $phongfresnelranges    "[0.06 0.5 15]"
+}
+
