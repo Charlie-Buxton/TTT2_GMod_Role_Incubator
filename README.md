@@ -91,13 +91,3 @@ garrysmod/addons/ttt2-role_incubator/
 ```
 
 Start a TTT2 server and enable the Incubator role through the standard TTT2 role settings.
-
-## Manual Test Checklist
-
-1. Start a TTT2 round with the role enabled.
-2. Assign or roll the Incubator role and kill that player.
-3. Confirm that the growl plays immediately.
-4. Confirm that exactly one mutant spawns near the corpse after three seconds.
-5. Confirm that the splat sound and blood effects play at the hatch position.
-6. Start the next round and confirm that the spawned mutant is removed.
-
