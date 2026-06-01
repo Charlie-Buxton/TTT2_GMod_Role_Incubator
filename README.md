@@ -85,11 +85,8 @@ The hatch delay and possible NPC classes are currently code-level constants:
 
 - [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/)
 - A server running [TTT2](https://docs.ttt2.neoxult.de/)
-- VJ ATOMIC HEART : MUTANT NPC[https://steamcommunity.com/sharedfiles/filedetails/?id=2951420390](https://steamcommunity.com/sharedfiles/filedetails/?id=2951420390)
+- VJ ATOMIC HEART : MUTANT NPC [https://steamcommunity.com/sharedfiles/filedetails/?id=2951420390](https://steamcommunity.com/sharedfiles/filedetails/?id=2951420390)
 
-The original implementation targets the Podbeg mutants from [`[VJ] ATOMIC HEART : MUTANT NPC`](https://steamcommunity.com/sharedfiles/filedetails/?id=2951420390), built on [VJ Base](https://steamcommunity.com/sharedfiles/filedetails/?id=131759821).
-
-As of June 2026, Steam marks both linked Workshop items as removed from the community and incompatible with Garry's Mod. The original dependency chain is therefore not available as a working fresh-install path. A server needs a compatible addon that still exposes the expected NPC classes, or the `INCUBATOR_NPCS` list in [`shared.lua`](src/ttt2-role_incubator/lua/terrortown/entities/roles/incubator/shared.lua) must be changed to use available NPC classes.
 
 ### Local Installation
 
