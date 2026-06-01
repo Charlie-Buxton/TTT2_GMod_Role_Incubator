@@ -1,6 +1,6 @@
 # Incubator Role for Trouble in Terrorist Town 2
 
-A custom social-deduction game role for [TTT2](https://docs.ttt2.neoxult.de/), built in Lua for [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/).
+A custom social-deduction game role for **TTT2**, built in Lua for [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/).
 
 Incubator begins the round disguised as an ordinary Innocent. When they are killed, their death creates a new threat: after a short delay, a hostile mutant hatches from their corpse with a burst of blood and sound effects.
 
