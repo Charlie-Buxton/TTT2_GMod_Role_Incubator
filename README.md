@@ -30,18 +30,6 @@ When Player 1 is killed, the nearby players hear a growl. Three seconds later, a
 
 The result is a simple mechanical twist with a social consequence: a body is no longer just evidence. It can also become an immediate danger.
 
-## Engineering Highlights
-
-This addon is deliberately small, but it touches several parts of the TTT2 and Garry's Mod addon APIs:
-
-- **Role configuration:** registers a hidden Innocent-side role with standard TTT2 role settings.
-- **Event-driven server logic:** reacts to player deaths and round transitions through Garry's Mod hooks.
-- **Defensive corpse resolution:** checks the player's server ragdoll, searches TTT corpse entities as a fallback, and finally uses the player's last position.
-- **Entity lifecycle management:** tracks every spawned mutant and removes it before a new round starts.
-- **Duplicate-spawn protection:** stores per-player state so each death can hatch at most one mutant.
-- **External addon integration:** creates installed NPCs by class name and logs a clear server-side message if a class is unavailable.
-- **Bundled assets:** includes English localisation, audio files, an optional role icon asset, and Garry's Mod Workshop metadata.
-
 ## Project Structure
 
 ```text
