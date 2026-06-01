@@ -85,7 +85,7 @@ The hatch delay and possible NPC classes are currently code-level constants:
 
 - [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/)
 - A server running [TTT2](https://docs.ttt2.neoxult.de/)
-- VJ ATOMIC HEART : MUTANT NPC [https://steamcommunity.com/sharedfiles/filedetails/?id=2951420390](https://steamcommunity.com/sharedfiles/filedetails/?id=2951420390)
+- [VJ ATOMIC HEART : MUTANT NPC](https://steamcommunity.com/sharedfiles/filedetails/?id=2951420390)
 
 
 ### Local Installation
