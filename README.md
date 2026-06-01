@@ -1,4 +1,4 @@
-# Incubator Role for Trouble in Terrorist Town 2
+# Incubator Role for TTT2
 
 A custom social-deduction game role for **TTT2**, built in Lua for [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/).
 
