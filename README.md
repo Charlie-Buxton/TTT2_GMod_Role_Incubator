@@ -4,7 +4,7 @@ A custom social-deduction game role for [TTT2](https://docs.ttt2.neoxult.de/), b
 
 Incubator begins the round disguised as an ordinary Innocent. When they are killed, their death creates a new threat: after a short delay, a hostile mutant hatches from their corpse with a burst of blood and sound effects.
 
-[Trouble in Terrorist Town](https://www.troubleinterroristtown.com/) is a multiplayer social-deduction mode included with Garry's Mod. A small group of hidden Traitors must eliminate the Innocent players before they are discovered. TTT2 expands TTT with a framework for custom roles, equipment, settings, and win conditions. This repository adds one of those roles.
+[TTT2](https://github.com/TTT-2/TTT2) expands TTT with a framework for custom roles, equipment, settings, and win conditions. This repository adds one of those roles.
 
 ## What Incubator Does
 
